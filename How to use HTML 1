@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1>Somethings About Me</h1>
+  <h2>Name</h2>
+  <p><em>Mark Yin</em></p>
+  <h2>Age</h2>
+  <p><strong>15 G10</strong></p>
+  <h2>What courses I take</h2>
+  <h3>Day 1</h3>
+  <ul>
+    <li>Anthro</li>
+    <li>English </li>
+    <li>Music</li> 
+    <li>Civic</li>
+  </ul>
+  <h3>Day 2</h3>
+  <p>Science<br>Math<br>CS<br>Business</p>
+  <h2>Favorite books</h2>
+  <ol>
+    <li>Harry Potter</li>
+    <li>Les Misérables</li>
+    <li>The Three Body Problem</li>
+  </ol>
+  <img src="https://th.bing.com/th/id/OIP._NCtGVVAm1tUNyBNqtS_6QHaEo?pid=ImgDet&rs=1" alt="The concept picture of the book" width="250" height="150">
+  
+  <script src="script.js"></script>
+
+ <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
+</body>
+
+</html>
