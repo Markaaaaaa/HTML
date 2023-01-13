@@ -6,11 +6,28 @@
   <meta name="viewport" content="width=device-width">
   <title>replit</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
+  <style>
+    h2{
+      color: rgb(0, 222, 32);
+    }
+    body{
+      background-color: rgb(0, 22, 320);
+    }
+    p{
+      color: rgb(255,0,0);
+    }
+    #Day2{
+      background-color: yellow;
+    }
+    #name{
+      color: rgb(255,0,0);
+    }
+  </style>
 </head>
 
 <body>
   <h1>Somethings About Me</h1>
-  <h2>Name</h2>
+  <h2 id="name">Name</h2>
   <p><em>Mark Yin</em></p>
   <h2>Age</h2>
   <p><strong>15 G10</strong></p>
@@ -23,7 +40,7 @@
     <li>Civic</li>
   </ul>
   <h3>Day 2</h3>
-  <p>Science<br>Math<br>CS<br>Business</p>
+  <p id="Day2">Science<br>Math<br>CS<br>Business</p>
   <h2>Favorite books</h2>
   <ol>
     <li>Harry Potter</li>
@@ -31,7 +48,6 @@
     <li>The Three Body Problem</li>
   </ol>
   <img src="https://th.bing.com/th/id/OIP._NCtGVVAm1tUNyBNqtS_6QHaEo?pid=ImgDet&rs=1" alt="The concept picture of the book" width="250" height="150">
-  
   <script src="script.js"></script>
 
  <!--
