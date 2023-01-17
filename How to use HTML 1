@@ -22,6 +22,9 @@
     #name{
       color: rgb(255,0,0);
     }
+    .favour{
+      color: rgb(222,132,14)
+    }
   </style>
 </head>
 
@@ -43,9 +46,9 @@
   <p id="Day2">Science<br>Math<br>CS<br>Business</p>
   <h2>Favorite books</h2>
   <ol>
-    <li>Harry Potter</li>
+    <li class="favour">Harry Potter</li>
     <li>Les Misérables</li>
-    <li>The Three Body Problem</li>
+    <li class="favour">The Three Body Problem</li>
   </ol>
   <img src="https://th.bing.com/th/id/OIP._NCtGVVAm1tUNyBNqtS_6QHaEo?pid=ImgDet&rs=1" alt="The concept picture of the book" width="250" height="150">
   <script src="script.js"></script>
