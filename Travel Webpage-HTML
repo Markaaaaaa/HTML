@@ -15,7 +15,7 @@ body{
     color: rgb(255,0,0);
   }
   #aliens{
-    color: rgb(255,0,0);
+    color: rgb(170,255,0);
   }
 
   
@@ -24,6 +24,10 @@ body{
 <h1>Travel To Mars</h1>
   <h2 class="red">How does Mars look like</h2>
   <img src= "https://upload.wikimedia.org/wikipedia/commons/0/0e/Tharsis_and_Valles_Marineris_-_Mars_Orbiter_Mission_%2830055660701%29.png" width="200">
+
+  <h2 class="red">The procedure towards entering mars</h2>
+  <p> In order to reach mars you must pick a 2000$ from elon musks<br>  personal rockets or you can upgrade to a deluxe 5000$ flight, it <br> 
+takes 7 months to reach mars and you will be allowed to stay a <br>maximum of one year before having to return to earth<br> But watch out for aliens</p>
   <h2 class="red">Lists of things to see </h2>
   <ul> 
   <li id="aliens"> <strong>Aliens</strong></li>
@@ -32,7 +36,7 @@ body{
   <li> The Ozone Layer</li>
   </ul>
   
-   <h2 class="red">5 Fun Facts About 5 Mars </h2>   
+   <h2 class="red">5 Fun Facts About Mars </h2>   
     <ol> 
     <li> Mars is the Fourth planet in the Solar Systen</li>
     <li> Despite Mars hot nature it still has water sealed deeply inside of it</li>
@@ -65,10 +69,18 @@ body{
   <ul> 
 <li><b>Mars Mini Tornado Apetizer</b></li>
 </ul>
-  <img src="https://images.newscientist.com/wp-content/uploads/2016/04/cover-original.jpg" width="500">
+  <img src="https://images.newscientist.com/wp-content/uploads/2016/04/cover-original.jpg" width="300">
   <script src="script.js"></script>
   
+
+ <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
   <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
 </body>
 
 </html>
+
+
