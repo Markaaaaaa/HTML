@@ -11,9 +11,12 @@
         font-family: "Helvetica", sans-serif;
         font-style: italic;
         text-align: center;
+        color: blue;
+        font-size: 3em;
+        font-family: Georgia, serif;
       }
       h2{
-        font-size: 22px;
+        font-size: 28px;
         text-decoration:underline ;
       }
       body{
@@ -28,7 +31,11 @@
       }
       .introduction{
         text-align: center;
+        color: rgb(204,136,0);
+        font-size: 22px;
+        font-style: italic;
       }
+     
 
 
       
@@ -46,12 +53,14 @@
         
         <h2 id="first">First post</h2>
         <h6>03-21-2022</h6>
-        <p class="introduction">My parents and I drove 14 hours to Florida</p>
-        <p class="content">Florida is a state in the Southeastern region of the United States, bordered to the west by the Gulf of Mexico; Alabama to the northwest; Georgia to the north; the Bahamas and Atlantic Ocean to the east; and the Straits of Florida and Cuba to the south. </p>
+        <p class="introduction">My parents and I drove 18 hours to Florida</p>
+        <p class="content"><a href="https://en.wikipedia.org/wiki/Florida">Florida</a> is a state in the Southeastern region of the United States, bordered to the west by the Gulf of Mexico; Alabama to the northwest; Georgia to the north; the Bahamas and Atlantic Ocean to the east; and the Straits of Florida and Cuba to the south. </p>
+      <img src="https://th.bing.com/th/id/R.9a3c0b874f124f2b9dfc1e8c7d2305e0?rik=is3nT2YTYp9EKA&riu=http%3a%2f%2fup.deskcity.org%2fpic_source%2f9a%2f3c%2f0b%2f9a3c0b874f124f2b9dfc1e8c7d2305e0.jpg&ehk=5Zh%2fQakNJHGHgi3Mzt8dz0mycQ4ygpAHVTp%2fudlu7jg%3d&risl=&pid=ImgRaw&r=0" width="300">
         <h2 id="second">Second post</h2>
         <h6>01-06-2023</h6>
         <p class="introduction"> I went to the Ripley's Aquarium of Canada</p>
         <p class="content">Explore the Waters of the World at Ripley's Aquarium of Canada. Located in the heart of downtown Toronto at the base of the CN Tower, the aquarium is Toronto's must-see attraction for tourists and locals of all ages.</p>
+      <img src="https://th.bing.com/th/id/OIP.1ifoOwCbkyMmZ1nHHVbOAwHaE7?pid=ImgDet&rs=1" width="300" height="175">
         
     </body>
 
