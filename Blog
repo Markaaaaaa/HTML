@@ -22,9 +22,6 @@
       body{
         background-color: yellowgreen;
       }
-      a{
-        text-decoration: none;
-      }
       .content{
         font-weight: bold;
         line-height: 2em;
@@ -59,7 +56,7 @@
         <h2 id="second">Second post</h2>
         <h6>01-06-2023</h6>
         <p class="introduction"> I went to the Ripley's Aquarium of Canada</p>
-        <p class="content">Explore the Waters of the World at Ripley's Aquarium of Canada. Located in the heart of downtown Toronto at the base of the CN Tower, the aquarium is Toronto's must-see attraction for tourists and locals of all ages.</p>
+        <p class="content">Explore the Waters of the World at <a href="https://www.ripleyaquariums.com/canada/">Ripley's Aquarium of Canada.</a> Located in the heart of downtown Toronto at the base of the CN Tower, the aquarium is Toronto's must-see attraction for tourists and locals of all ages.</p>
       <img src="https://th.bing.com/th/id/OIP.1ifoOwCbkyMmZ1nHHVbOAwHaE7?pid=ImgDet&rs=1" width="300" height="175">
         
     </body>
